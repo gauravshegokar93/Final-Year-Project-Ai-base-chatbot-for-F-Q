@@ -56,13 +56,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-For any queries or feedback, reach out to [sggopi2002@gmail.com](mailto:sggopi2002@gmail.com).
+For any queries or feedback, reach out to [gauravshegokar2312@gmail.com](mailto:gauravshegokar2312@gmail.com).
 
 ## Known Issues
 
 - There are currently no known issues. If you encounter any, please report them.
 
-## Future Enhancements
-
-- Implementing user accounts for more personalized bookshelves.
-- Enhancing search capabilities with filters and sorts.
